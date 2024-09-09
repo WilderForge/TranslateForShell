@@ -1,6 +1,6 @@
 {
 "author": "Gamebuster",
 "name": "CWE-78 Injection",
-"blurb": "Test mod to demonstrate a security issue",
+"blurb": "Test mod to demonstrate a security issue, opens the calculator",
 "url": "https://wildermyth.com/wiki/Injection"
 }
